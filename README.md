@@ -1,5 +1,5 @@
 # YouTube videos search:
 **Using tools :** 
-- ReactJS 
+- ReactJS Hooks
 - Bootstrap v4 
 - YouTube API v3
